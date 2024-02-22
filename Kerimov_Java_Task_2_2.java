@@ -1,6 +1,10 @@
+// Задание 2. Написать программу, которая принимает на вход две строки (a и b) и сравнивает их. 
+// В результате сравнения в консоль должно быть выведено одно из сообщений: "Строки неидентичны" или "Строки идентичны"
+
+
 import java.util.Scanner;
 
-public class Kerimov_Java_Task_2_1 {
+public class Kerimov_Java_Task_2_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
